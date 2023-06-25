@@ -1,0 +1,31 @@
+{
+  "_fv": 33,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "当前等级：<VAR:integer:dj>",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "当前等级：<VAR:integer:dj>",
+          "x": 306,
+          "y": 223
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}
